@@ -20,48 +20,7 @@
 
 4.prop
 
-- 对象数组的默认值必须由函数返回
-
-  ```vue
-  props:{
-  	propC: {
-  		type: Object,
-  		default: ()=> {}
-  	}
-  }
-  ```
-
-  
-
-- prop自定义验证函数
-
-  ```vue
-  props:{
-  	propC: {
-  		validator(val) {
-  			return [1,2,3].indexOf(value) !== -1
-  		}
-  	}
-  }
-  ```
-
-  
-
-- prop和attr
-
-  ```vue
-  <prop :prop="prop" attr="attr" />
-   <p>{{ `${prop} ${$attrs.attr}` }}</p>
-  ```
-
-  
-
 5..sync修饰符
-
-```vue
-<text-document v-bind.sync="doc"></text-document>
-等于 v-model
-```
 
 6.插槽
 
@@ -71,17 +30,5 @@
 
 9.渲染函数和jsx
 
-10.边界
 
-11:key和v-if&v-for
-
-12表单修饰符:
-
-```
-.lazy
-.number
-.trim
-```
-
-13.组建中的is
 
