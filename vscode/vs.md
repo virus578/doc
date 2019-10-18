@@ -1,5 +1,6 @@
 vs插件
 
+-   indent-rainbow 
 -  Vue 2 Snippets
 -  Vue Peek
 -  vscode-icons

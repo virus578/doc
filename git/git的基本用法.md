@@ -264,3 +264,7 @@ git pull origin dev //把某个分支所有内容拉去到本地(是 git fetch �
 git reset --hard dev;
 
 重新拉代码
+
+github提交代码 格子没有变绿
+
+ https://blog.csdn.net/neil4/article/details/53362936 
