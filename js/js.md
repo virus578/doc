@@ -206,3 +206,6 @@ var newArray = arr.flat([depth]) //depth指嵌套数组的结构深度 默认值
 https://www.cnblogs.com/chenshihaook/p/6186343.html
 
 所有数据类型都有toString 和 valueOf 方法
+
+[**js或jQuery获取当前屏幕的各种高度**]( https://blog.csdn.net/zzqworkspace/article/details/72725048 ) 
+
