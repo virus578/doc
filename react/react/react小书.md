@@ -199,6 +199,29 @@ React.js 的是非常高效的，它高效依赖于所谓的 Virtual-DOM 策略�
 
 # 第二阶段(生命周期和react一些属性)
 
+## 前端应用状态管理---状态提升
 
+ ![React.js 小书实战之状态管理图片](http://huzidaha.github.io/static/assets/img/posts/85B8A2B7-288F-4FC2-A0AB-C4E153BB3854.png) 
+
+ ![React.js 小书实战之状态管理图片](http://huzidaha.github.io/static/assets/img/posts/C547BD3E-F923-4B1D-96BC-A77966CDFBEF.png) 
+
+更好的解决方案 redux
+
+## 生命周期
+
+constructor() 初始化 state
+
+- `componentWillMount`：组件挂载开始之前，也就是在组件调用 `render` 方法之前调用。 请求 定时器
+- render()
+- `componentDidMount`：组件挂载完成以后，也就是 DOM 元素已经插入页面后调用。
+- `componentWillUnmount`：组件对应的 DOM 元素从页面中删除之前调用。
+
+## ref和react的一些dom操作
+
+## props.children和容器类组件
+
+##  **dangerouslySetHTML 和 style 属性** 
+
+##  **PropTypes 和组件参数验证** 
 
 # 第三阶段(高阶组件和动手实现redux)
