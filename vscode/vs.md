@@ -1,11 +1,6 @@
 vs插件
 
 -   indent-rainbow 
--  Vue 2 Snippets
--  Vue Peek
--  vscode-icons
--  vscode-element-helper
--  Vetur
 -  Turbo Console Log
 -  Trailing Spaces
 -  Prettier - Code formatter
@@ -26,6 +21,17 @@ vs插件
 -  Auto Close Tag
 -  Atom One Light Theme
 -  Atom One Dark Theme
+-  vscode-icons
+-  Vetur
+-  Vue 2 Snippets
+-   Vue Peek
+-   vscode-element-helper
+-    Typescript React code snippets
+-    Reactjs code snippets
+-    React-Native/React/Redux snippets for es6/es7
+-    React Redux ES6 Snippets
+-    ES7 React/Redux/GraphQL/React-Native snippets
+
 
 
 vspre
